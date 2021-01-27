@@ -19,7 +19,8 @@ namespace miniShop.Services
             {
                 new Category{Id=1,Name="Aksesuar" },
                 new Category{Id=2,Name="Ayakkabı"},
-                new Category{Id=3,Name="Saat"}
+                new Category{Id=3,Name="Saat"},
+                new Category{Id=4,Name="Kıyafet"}
             };
             
         }
